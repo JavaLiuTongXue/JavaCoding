@@ -26,4 +26,8 @@
 
  <div align="center"><a name="公众号"><h2>关注微信公众号</h2></a></div>
 
+<div align="center"> 
+
  ![](https://mmbiz.qpic.cn/mmbiz_jpg/bllsic4ibcxqQd0Kah83iaXpcuLNm7PcWkCKGobEc08mnCMxbPJZs6jL5wsTyeu7Ut0goCtm5HwNmg8lYN1n7azLw/0?wx_fmt=jpeg)
+
+</div>
