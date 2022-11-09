@@ -26,4 +26,4 @@
 ##
  <div align="center"><a name="公众号">关注微信公众号</a></div>
 
- <div align="center">![](https://images.cnblogs.com/cnblogs_com/blogs/676240/galleries/2241043/t_221109021015_qrcode_for_gh_5ccc040094b1_1280.jpg)</div>
+ ![](https://mmbiz.qpic.cn/mmbiz_jpg/bllsic4ibcxqQd0Kah83iaXpcuLNm7PcWkCN9BVCnleB2qu2WicB2vKu6rVrMfECnwVJUq45RwyWquYGM8hQFu5y1g/0)
