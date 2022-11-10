@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/JavaLiuTongXue/JavaCoding" target="_blank">
-        <img src="https://pic.cnblogs.com/avatar/2344519/20220701140243.png" width=""/>
+        <img src="docs/image/touxiang.png" width="200" height="200"/>
     </a>
 </p>
 
@@ -28,6 +28,6 @@
 
 <div align="center"> 
 
- ![](https://mmbiz.qpic.cn/mmbiz_jpg/bllsic4ibcxqQd0Kah83iaXpcuLNm7PcWkCKGobEc08mnCMxbPJZs6jL5wsTyeu7Ut0goCtm5HwNmg8lYN1n7azLw/0?wx_fmt=jpeg)
+  <img src="docs/image/0.jpeg" width="200" height="200"/>
 
 </div>
