@@ -22,7 +22,9 @@
 	   
   ### 集合框架：
    [HashMap的底层原理](https://mp.weixin.qq.com/s?__biz=Mzg2NjA3ODE4Ng==&mid=2247484176&idx=1&sn=6182b713a43487dd46b3c983c6dda1f5&chksm=ce511f95f9269683a6009232b0d5aa66aa01f49ab1a425798e39c5781bc4d9eda546866ed48f&token=479818814&lang=zh_CN#rd)
-   
+  ### Java必会框架
+   #### Spring
+   [Spring Bean的生命周期及各个阶段的回调](https://www.cnblogs.com/JavaLiuTongXue/articles/16887192.html)
 
  <div align="center"><a name="公众号"><h2>关注微信公众号</h2></a></div>
 
