@@ -28,6 +28,8 @@
    [Spring Bean的生命周期及各个阶段的回调](https://www.cnblogs.com/JavaLiuTongXue/articles/16887192.html)
 ## Redis
    [Redis对于过期key的处理](https://www.cnblogs.com/JavaLiuTongXue/articles/16929006.html)
+  
+   [Redis集群架构所产生的问题及如何处理](https://www.cnblogs.com/JavaLiuTongXue/articles/16929006.html)
 
  <div align="center"><a name="公众号"><h2>关注微信公众号</h2></a></div>
 
