@@ -27,6 +27,9 @@
    ### Spring
    [Spring Bean的生命周期及各个阶段的回调](https://www.cnblogs.com/JavaLiuTongXue/articles/16887192.html)
 ## Redis
+ 
+   [Redis的持久化机制及其持久化策略](https://www.cnblogs.com/JavaLiuTongXue/articles/16978497.html)
+ 
    [Redis对于过期key的处理](https://www.cnblogs.com/JavaLiuTongXue/articles/16929006.html)
   
    [Redis集群架构所产生的问题及如何处理](https://www.cnblogs.com/JavaLiuTongXue/articles/16969814.html)
