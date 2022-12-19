@@ -26,7 +26,6 @@
   ### List:
   
 ## Spring
-   ### 
    [Spring Bean的生命周期及各个阶段的回调](https://www.cnblogs.com/JavaLiuTongXue/articles/16887192.html)
 ## Redis
  
